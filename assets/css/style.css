@@ -1,0 +1,40 @@
+body{
+
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: black;
+    line-height: 1.5em;
+    color: aliceblue;
+    text-align: center;
+    
+    }
+
+#title{
+
+color: gold;
+background-color: grey;
+padding: 20px;
+margin-bottom: 10px;
+
+}
+
+#wrapper{
+
+width: 90%;
+margin: auto;
+padding: 10px;
+
+}
+
+#subwrapper{
+
+color: goldenrod;
+line-height: 40px;
+
+}
+
+#rabbit{
+
+float: none;
+
+}
